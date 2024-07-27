@@ -1,2 +1,2 @@
-# LearningSwiftUI
-Learning Swift UI - You can see beginner  Swift UI stuff.
+# SwiftUIExamples
+Swift UI - You can see swift UI stuff.
