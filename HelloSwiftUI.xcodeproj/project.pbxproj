@@ -11,6 +11,7 @@
 		8DB14C9A2C53C9E7008CAB24 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DB14C992C53C9E7008CAB24 /* ContentView.swift */; };
 		8DB14C9C2C53C9E9008CAB24 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8DB14C9B2C53C9E9008CAB24 /* Assets.xcassets */; };
 		8DB14C9F2C53C9E9008CAB24 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8DB14C9E2C53C9E9008CAB24 /* Preview Assets.xcassets */; };
+		8DD686672C5524BA00EE3FA6 /* background_image.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8DD686662C5524BA00EE3FA6 /* background_image.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		8DB14C992C53C9E7008CAB24 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		8DB14C9B2C53C9E9008CAB24 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8DB14C9E2C53C9E9008CAB24 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		8DD686662C5524BA00EE3FA6 /* background_image.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = background_image.jpg; path = ../../../../Downloads/background_image.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 				8DB14C972C53C9E7008CAB24 /* HelloSwiftUIApp.swift */,
 				8DB14C992C53C9E7008CAB24 /* ContentView.swift */,
 				8DB14C9B2C53C9E9008CAB24 /* Assets.xcassets */,
+				8DD686662C5524BA00EE3FA6 /* background_image.jpg */,
 				8DB14C9D2C53C9E9008CAB24 /* Preview Content */,
 			);
 			path = HelloSwiftUI;
@@ -127,6 +130,7 @@
 			files = (
 				8DB14C9F2C53C9E9008CAB24 /* Preview Assets.xcassets in Resources */,
 				8DB14C9C2C53C9E9008CAB24 /* Assets.xcassets in Resources */,
+				8DD686672C5524BA00EE3FA6 /* background_image.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
